@@ -87,9 +87,6 @@ python dual_imu_mtsi.py --input demo_input.jsonl --output replay_results.csv
 | --- | --- |
 | dual_imu_mtsi.py | Complete preprocessing, scoring, and demonstration code |
 | test_dual_imu_mtsi.py | Numerical reference cases and boundary-condition checks |
-| demo_input.jsonl | Synthetic synchronized sensor pairs |
-| demo_results.csv | Generated features and scores |
-| 使用说明.md | Chinese usage guide and integration examples |
 
 Sensor input assumptions
 
