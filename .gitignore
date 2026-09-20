@@ -1,8 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-replay_results.csv
-mtsi_results.csv
-.DS_Store
-Thumbs.db
